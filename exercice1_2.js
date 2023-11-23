@@ -1,2 +1,7 @@
-alert ("Nom : Doe \n Prenom : John \n City : New York");
+let nom = "doe"
+let prenom = "John"
+let ville ="New York"
+
+
+alert ("Nom :"+ nom+ "\n Prenom: " + prenom +"\n Ville: " + ville);
 
